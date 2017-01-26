@@ -1,7 +1,11 @@
 Projeto: A Maze / Um labirinto
+
 Curso: VR Developer Nanodegree Program
+
 URL: https://br.udacity.com/course/vr-developer-nanodegree--nd017/
+
 Revisão do Projeto: https://review.udacity.com/#!/reviews/332735/shared #Nanodegree
+
 Versão 1.0
 
 ESPECIFICAÇÕES DO PROJETO
