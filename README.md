@@ -1,11 +1,8 @@
-Versão 1.1
--Adicionei interface para contar as moedas 
-
-Versão 1.0
 Projeto: A Maze / Um labirinto
 Curso: VR Developer Nanodegree Program
 URL: https://br.udacity.com/course/vr-developer-nanodegree--nd017/
 Revisão do Projeto: https://review.udacity.com/#!/reviews/332735/shared #Nanodegree
+Versão 1.0
 
 ESPECIFICAÇÕES DO PROJETO
 
@@ -62,3 +59,9 @@ O estudante ativa um efeito sonoro via script quando o item é coletado.
 CRITÉRIO
 O cenário é recarregado assim que a UI é clicada.
 O estudante permite que a cena seja redefinida para seu estado inicial de tal forma que possa ser executada novamente via script para essa funcionalidade na UI.
+
+---
+Notas de Versão
+
+Versão 1.1
+-Adicionei interface para contar as moedas 
